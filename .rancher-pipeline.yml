@@ -1,0 +1,9 @@
+timeout: 60
+notification:
+  recipients:
+  - recipient: ZhuCai
+    notifier: c-9vz7k:n-bkcgg
+  condition:
+  - Success
+  - Changed
+  - Failed
